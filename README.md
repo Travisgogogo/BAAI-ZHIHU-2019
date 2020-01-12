@@ -7,4 +7,4 @@ Team: MemoryError-Travis\
 A榜 Rank 1 score 0.880\
 B榜 Rank 3 score 0.894
 
-Sites：cchan:https://github.com/cchan19
+Cites：cchan:https://github.com/cchan19
